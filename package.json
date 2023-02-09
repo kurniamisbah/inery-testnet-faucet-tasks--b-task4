@@ -6,11 +6,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Pepoyy/inery-testnet-faucet-tasks.git"
+    "url": "https://github.com/kurniamisbah/inery-testnet-faucet-tasks.git"
   },
-  "author": "Pepoyy",
+  "author": "kurnia23",
   "license": "ISC",
-  "homepage": "https://twitter.com/PepoyCrypto",
+  "homepage": "https://twitter.com/kurnia191094",
   "dependencies": {
     "ineryjs": "github:inery-blockchain/ineryjs",
     "dotenv": "latest"
